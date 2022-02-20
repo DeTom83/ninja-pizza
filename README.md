@@ -1,2 +1,2 @@
-# ninja-pizza
-This is my favorite pizza house.
+# Ninja Pizza House project
+---------------------------
