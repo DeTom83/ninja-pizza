@@ -1,5 +1,5 @@
 # Ninja Pizza House project
----------------------------
+---
 ### I'm making a Pizza store page with my favorite pizzas. :)
 ### I have the following responsibilities with this website:
 - Install Laravel PHP framework with Bootstrap library
